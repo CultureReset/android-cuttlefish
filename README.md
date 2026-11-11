@@ -1,3 +1,14 @@
+> **CultureReset fork of [google/android-cuttlefish](https://github.com/google/android-cuttlefish).** Cuttlefish host support debian package.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** see upstream; this fork does not change it. For updates and issues, use [upstream](https://github.com/google/android-cuttlefish).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Virtual Device for Android host-side utilities
 
 This repository holds supporting tools that prepare a host to boot
